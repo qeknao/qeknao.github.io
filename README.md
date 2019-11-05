@@ -1,0 +1,2 @@
+# qeknao.github.io
+blog
